@@ -1,0 +1,3 @@
+Linux is a free, open-source operating system (OS) based on Unix,
+A Linux distribution is a complete operating system built around the Linux kernel,
+ It provides users with everything needed to run Linux on different types of
